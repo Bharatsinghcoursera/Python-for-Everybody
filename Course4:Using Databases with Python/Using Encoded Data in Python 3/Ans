@@ -1,0 +1,99 @@
+What is the most common Unicode encoding when moving data between systems?
+
+
+UTF-32
+
+
+UTF-8
+
+
+UTF-16
+
+
+UTF-128
+
+
+UTF-64
+
+Ans:UTF-8
+
+2.Question 2
+What is the decimal (Base-10) numeric value for the upper case letter "G" in the ASCII character set?
+
+
+71
+
+
+7
+
+
+256
+
+
+142
+
+
+17
+Ans:71
+
+3.Question 3
+What word does the following sequence of numbers represent in ASCII:
+
+108, 105, 115, 116
+
+
+first
+
+
+dict
+
+
+webs
+
+
+mist
+
+
+list
+
+Ans:List
+
+4.Question 4
+How are strings stored internally in Python 3?
+
+
+Unicode
+
+
+inverted
+
+
+EBCDIC
+
+
+UTF-16
+
+
+bubble memory
+
+Ans:Unicode
+
+5.Question 5
+When reading data across the network (i.e. from a URL) in Python 3, what method must be used to convert it to the internal format used by strings?
+
+
+decode()
+
+
+encode()
+
+
+internal()
+
+
+rstrip()
+
+
+split()
+
+Ans:Decode()
